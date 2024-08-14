@@ -1,0 +1,15 @@
+C:\Repos\BankEncapsulation1\BankEncapsulation\bin\Debug\net6.0\BankEncapsulation.exe
+C:\Repos\BankEncapsulation1\BankEncapsulation\bin\Debug\net6.0\BankEncapsulation.deps.json
+C:\Repos\BankEncapsulation1\BankEncapsulation\bin\Debug\net6.0\BankEncapsulation.runtimeconfig.json
+C:\Repos\BankEncapsulation1\BankEncapsulation\bin\Debug\net6.0\BankEncapsulation.dll
+C:\Repos\BankEncapsulation1\BankEncapsulation\bin\Debug\net6.0\BankEncapsulation.pdb
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.AssemblyInfo.cs
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.sourcelink.json
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.dll
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\refint\BankEncapsulation.dll
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.pdb
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\BankEncapsulation.genruntimeconfig.cache
+C:\Repos\BankEncapsulation1\BankEncapsulation\obj\Debug\net6.0\ref\BankEncapsulation.dll
